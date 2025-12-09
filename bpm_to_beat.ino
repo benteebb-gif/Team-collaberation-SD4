@@ -1,3 +1,5 @@
+// code for the heartbeat sensor
+
 #include <Wire.h>
 
 unsigned long lastBeat = 0;
